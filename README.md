@@ -45,5 +45,6 @@ Barak, L., Fernandez, N., Feldman, N. H. & Shafto, P. (2023). Modeling Substitut
 
 ### Link to the paper
 
-The data for the simulations can be found under CogSci23
+https://escholarship.org/uc/item/740374zf
+
 
